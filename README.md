@@ -1,5 +1,3 @@
-# Virtual-Bots
-
 # Proyecto Virtual-Bots: Agente Conversacional Personalizado
 
 ## Descripción
